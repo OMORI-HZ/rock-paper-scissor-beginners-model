@@ -1,0 +1,3 @@
+# requirements.txt
+somepackage==1.0.0
+anotherpackage>=2.0.0
